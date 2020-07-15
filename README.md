@@ -1,4 +1,4 @@
-<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/a.png" widht="200">
+<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/a.png" widht="200">
 
 
 # :briefcase:carlosd-ss.github.io
