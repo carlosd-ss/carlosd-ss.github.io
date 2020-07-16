@@ -3,9 +3,9 @@
 
 # :briefcase:carlosd-ss.github.io
 
-![HTML](https://img.shields.io/badge/html-%20-orange)
-![CSS](https://img.shields.io/badge/css-%20-blue)
-![Javascript](https://img.shields.io/badge/javascript-%20-yellow)
+![HTML](https://img.shields.io/badge/html-orange)
+![CSS](https://img.shields.io/badge/css-blue)
+![Javascript](https://img.shields.io/badge/javascript-yellow)
 
 
 
