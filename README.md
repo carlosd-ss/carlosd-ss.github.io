@@ -1,11 +1,11 @@
-<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/a.png" widht="200">
+<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/a.png" widht="200">
 
 
 # :briefcase:carlosd-ss.github.io
 
-![HTML](https://img.shields.io/badge/html-%20-orange)
-![CSS](https://img.shields.io/badge/css-%20-blue)
-![Javascript](https://img.shields.io/badge/javascript-%20-yellow)
+![HTML](https://img.shields.io/badge/html-orange)
+![CSS](https://img.shields.io/badge/css-blue)
+![Javascript](https://img.shields.io/badge/javascript-yellow)
 
 
 
