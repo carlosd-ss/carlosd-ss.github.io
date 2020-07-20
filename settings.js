@@ -6,11 +6,11 @@ const settings = {
   i18n: {
     'en_US': {
       header: 'Carlos Daniel',
-      bio: 'I have been working with development since 2019, using the most varied technologies and actively participating in both open source projects and private companies, always using good practices and participating strongly in communities in search of developing systems with excellence.'
+      bio: 'I have been working with development since 2018, using the most varied technologies and actively participating in both open source projects and private companies, always using good practices and participating strongly in communities in search of developing systems with excellence.'
     },
     'pt_BR': {
       header: 'Carlos Daniel',
-      bio: 'Trabalho com desenvolvimento desde 2019, usando as mais variadas tecnologias e participando ativamente em projetos tanto open source quanto em empresas privadas, sempre utilizando boas praticas e participando fortemente das comunidades em busca de desenvolver sistemas com excelência.'
+      bio: 'Trabalho com desenvolvimento desde 2018, usando as mais variadas tecnologias e participando ativamente em projetos tanto open source quanto em empresas privadas, sempre utilizando boas praticas e participando fortemente das comunidades em busca de desenvolver sistemas com excelência.'
     }
   },
   social: [
