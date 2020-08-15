@@ -4,7 +4,7 @@
 # :briefcase:carlosd-ss.github.io
 
 ![HTML](https://img.shields.io/badge/HTML-%23444444?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/CSS-%23444444?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23444444?style=for-the-badge&logo=JavaScript)
 
 
