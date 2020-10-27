@@ -1,7 +1,5 @@
-<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/a.png" widht="200">
+<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/carlos.svg" widht="200">
 
-
-# :briefcase:carlosd-ss.github.io
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=%23444444)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=%23444444)
