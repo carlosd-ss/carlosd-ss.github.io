@@ -36,5 +36,5 @@
 
 ## Related projects
 
-[:📘: basic-ui](https://github.com/carlosd-ss/basic-ui)
+[📘 basic-ui](https://github.com/carlosd-ss/basic-ui)
 
