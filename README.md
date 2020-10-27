@@ -36,6 +36,5 @@
 
 ## Related projects
 
-[:wolf: Wolfbest](https://github.com/carlosd-ss/wolfbest)
+[:📘: basic-ui](https://github.com/carlosd-ss/basic-ui)
 
-[:bike: Bikeshop](https://carlosd-ss.github.io/bikeshop/)
