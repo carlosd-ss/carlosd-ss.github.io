@@ -27,7 +27,7 @@
 ```
 
 
-<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/self.png" widht="200">
+<img src="https://github.com/carlosd-ss/carlosd-ss.github.io/blob/master/.github/self1.png" widht="200">
 
 
 
