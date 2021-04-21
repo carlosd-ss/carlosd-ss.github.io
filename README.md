@@ -35,6 +35,3 @@
 
 [:briefcase: carlosd-ss.dev](https://carlosd-ss.github.io/?l=en_US)
 
-## Related projects
-
-[📘 basic-ui](https://github.com/carlosd-ss/basic-ui)
